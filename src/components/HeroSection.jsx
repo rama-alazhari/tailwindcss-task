@@ -1,5 +1,5 @@
 
-const AVATAR_URL = "/public/rama.jpeg";
+const AVATAR_URL = "rama.jpeg";
 
 const stats = [
   { label: 'سنوات خبرة', value: '+3' },
